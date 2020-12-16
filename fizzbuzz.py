@@ -12,7 +12,7 @@ my_string = '\n 1 \n'
 
 for i in range(2,101):
 
-    if i % 15 == 0:
+    if i % 15 == 0: 
         my_string += '\n fizzbuzz \n'
         
     elif i % 5 == 0:
@@ -22,7 +22,7 @@ for i in range(2,101):
         my_string += '\n fizz \n'
     
     else:
-        my_string += '\n '+ str(i) + '\n'
+        my_string += '\n ' + str(i) + '\n'
         
 print(my_string)
         
