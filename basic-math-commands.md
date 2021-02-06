@@ -13,3 +13,9 @@ To have display an equation more prominantly and in the center of the page, use
 ax + by + c = 0.
 ```
 
+
+But this doesn't seem like math mode to me! The issue is GitHub uses KaTeX, which has slightly different syntax. Let's try
+
+katex.render("c = \\pm\\sqrt{a^2 + b^2}", element, {
+    throwOnError: false
+});
