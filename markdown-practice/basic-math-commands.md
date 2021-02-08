@@ -25,5 +25,7 @@ The standard form of a line in 2-space may be parameterized with y = f<sub>&thet
 
 To have display an equation more prominantly and in the center of the page, use "an external LaTeX renderer like CodeCogs." Now we can use standard TeX syntax and render a proper equation.
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;y = h_\theta (x) = \theta_1 x + \theta_2" title="\Large y = h_\theta (x) = \theta_1 x + \theta_2" />
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;y=h_\theta(x)=\theta_1x+\theta_2" title="\Large y=h_\theta(x)=\theta_1x+\theta_2" />
+
+Notice spaces are not permitted in the string of TeX code I provide. (Also notice you have to put it in twice!)
 
