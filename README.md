@@ -8,6 +8,9 @@ We will mainly use Python (and some markdown), but hope to add more languages ov
 * [Number Guessing Game](https://github.com/jordanrhall/educational-fun/blob/main/coding-challenges/Number_Guesser.py): A fun number guessing game Carter took on as his first Python challenge
 * [Cake Sale](https://github.com/jordanrhall/educational-fun/blob/main/coding-challenges/Cake_Sale_Challenge.py): Carter's second Python challenge, involving some sugary goodness
 
+## Jupyter Notebooks
+* Add bullet for locker prank with link/description
+
 ## Markdown Practice
 * A [thank you note](https://github.com/jordanrhall/educational-fun/blob/main/markdown-practice/thanks.md): A kind note Payton left for Jordan to practice a GitHub workflow
 * [Displaying math in Markdown](https://github.com/jordanrhall/educational-fun/blob/main/markdown-practice/displaying-math.md): Jordan's brief demo of properly displaying math equations in GitHub-rendered Markdown
