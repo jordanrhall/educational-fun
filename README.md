@@ -9,7 +9,7 @@ We will mainly use Python (and some markdown), but hope to add more languages ov
 * [Cake Sale](https://github.com/jordanrhall/educational-fun/blob/main/coding-challenges/Cake_Sale_Challenge.py): Carter's second Python challenge, involving some sugary goodness
 
 ## Jupyter Notebooks
-* Add bullet for locker prank with link/description
+* [The Locker Prank](https://github.com/jordanrhall/educational-fun/blob/main/jupyter-notebooks/the-locker-prank.ipynb): A fun challenge Jordan found in Popular Mechanics solved in a Jupyter Notebook
 
 ## Markdown Practice
 * A [thank you note](https://github.com/jordanrhall/educational-fun/blob/main/markdown-practice/thanks.md): A kind note Payton left for Jordan to practice a GitHub workflow
