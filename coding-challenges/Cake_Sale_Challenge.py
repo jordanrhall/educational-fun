@@ -22,7 +22,7 @@ while True:
     try:       
         cupcakes = int(input("How many cupcakes do you plan to sell? "))
     except ValueError:
-        print('Please ensure your entry contains only numbers. No letters or special characters.')
+        print('Please ensure your entry is an integer. No letters or special characters.')
         continue
     else:
         break
@@ -32,7 +32,7 @@ while True:
     try:
         macaron = int(input("How many macarons do you plan to sell? "))
     except ValueError:
-        print('Please ensure your entry contains only numbers. No letters or special characters.')
+        print('Please ensure your entry is an integer. No letters or special characters.')
         continue
     else:
         break
@@ -42,7 +42,7 @@ while True:
     try:       
         cheesecake = int(input("How many cheesecakes do you plan to sell? "))
     except ValueError:
-        print('Please ensure your entry contains only numbers. No letters or special characters.')
+        print('Please ensure your entry is an integer. No letters or special characters.')
         continue
     else:
         break
