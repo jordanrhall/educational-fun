@@ -6,7 +6,7 @@ We can pretty easily display "code" using indivudual tick marks, for example:
 
 The standard form of a 2D line is given by a form `ax + by + c` in our code, where `a,b,c` are real numbers, `x` is traditionally an independent real-valued variable, and `y` a dependent real-valued variable.
 
-To display code more prominantly and in the center of the page, use triple tick marks, as in:
+To display code more prominantly, use triple tick marks, as in:
 
 ```
 ax + by + c
@@ -14,7 +14,7 @@ ax + by + c
 
 I see this all over GitHub!
 I was confounding the use of tick marks with math mode in earlier versions of this demo, and I am happy to clear up this confusion for myself and hopefully others.
-I also errantly used dollar signs to attempt to produce math equations, which is standard in TeX and even many other instances of markdown in action, like Jupyter Notebooks. 
+I also errantly used dollar signs to attempt to produce math equations, which is standard TeX syntax used in many other popular instances of markdown in action, like Jupyter Notebooks. 
 
 I wasn't surprised when I found many others have had the same issue producing proper equations in Markdown files, for example [here](https://stackoverflow.com/questions/11256433/how-to-show-math-equations-in-general-githubs-markdownnot-githubs-blog) and [also here](https://stackoverflow.com/questions/35498525/latex-rendering-in-readme-md-on-github).
 
