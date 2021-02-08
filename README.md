@@ -4,10 +4,10 @@ My repository for fun and games in collaboration with others. To include coding 
 We will mainly use Python (and some markdown), but hope to add more languages over time!
 
 ## Coding Challenges
-* [fizzbuzz](https://github.com/jordanrhall/educational-fun/blob/main/coding-challenges/fizzbuzz.py): A standard, brief challenge to efficiently print integers 1 through 100, with a few caveats Jordan took on to brush up on Python skills. [Thanks, Michael, for your help!](https://github.com/jordanrhall/educational-fun/issues/1)
-* [Number Game](https://github.com/jordanrhall/educational-fun/blob/main/coding-challenges/Number_Guesser.py): A fun number guessing game Carter took on as his first Python challenge
+* [Fizzbuzz](https://github.com/jordanrhall/educational-fun/blob/main/coding-challenges/fizzbuzz.py): A standard challenge to efficiently print integers 1 through 100, with a few caveats. Jordan took this on to brush up on Python skills and get this repo going. [Thanks, Michael, for your help and inspiration!](https://github.com/jordanrhall/educational-fun/issues/1)
+* [Number Guessing Game](https://github.com/jordanrhall/educational-fun/blob/main/coding-challenges/Number_Guesser.py): A fun number guessing game Carter took on as his first Python challenge
 * [Cake Sale](https://github.com/jordanrhall/educational-fun/blob/main/coding-challenges/Cake_Sale_Challenge.py): Carter's second Python challenge, involving some sugary goodness
 
 ## Markdown Practice
-* A [thank you note](https://github.com/jordanrhall/educational-fun/blob/main/markdown-practice/thanks.md): A note Payton left for Jordan to practice using the repo locally
-* Some [basic math commands](https://github.com/jordanrhall/educational-fun/blob/main/markdown-practice/basic-math-commands.md): Rough draft demo of using math mode
+* A [thank you note](https://github.com/jordanrhall/educational-fun/blob/main/markdown-practice/thanks.md): A kind note Payton left for Jordan to practice a GitHub workflow
+* [Displaying math in Markdown](https://github.com/jordanrhall/educational-fun/blob/main/markdown-practice/displaying-math.md): Jordan's brief demo of properly displaying math equations in GitHub-rendered Markdown
