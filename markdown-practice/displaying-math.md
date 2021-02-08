@@ -28,6 +28,6 @@ Sadly we aren't going to achieve nice typsetting for any numbers or the variable
 
 To have display an equation more prominantly (and correctly), use "an external LaTeX renderer like CodeCogs." (Again, thanks SpeedCoder5!) In other words, we may use standard TeX syntax and render a proper equation by shipping it off to another website to do the rendering (of what is technically just an image file).
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;y=h_\theta(x)=\theta_1x+\theta_2" title="\Large y=h_\theta(x)=\theta_1x+\theta_2" />
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;y=f_\theta(x)=\theta_1x+\theta_2" title="\Large y=f_\theta(x)=\theta_1x+\theta_2" />
 
 To those viewing the source code, notice spaces are not permitted in the string of TeX code I provided -- no surprise since it's a URL.
