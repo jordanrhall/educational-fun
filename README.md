@@ -3,6 +3,10 @@
 My repository for fun and games in collaboration with others. To include coding challenges, fun word problems solved efficiently by code, etc.
 We will mainly use Python (and some markdown), but hope to add more languages over time!
 
+## Installation Instructions
+* If you do not have a computational environment set up to run Python, download [Anaconda](https://www.anaconda.com/products/individual)
+* Continue
+
 ## Coding Challenges
 * [Fizzbuzz](https://github.com/jordanrhall/educational-fun/blob/main/coding-challenges/fizzbuzz.py): A standard challenge to efficiently print integers 1 through 100, with a few caveats. Jordan took this on to brush up on Python skills and get this repo going. [Thanks, Michael, for your help and inspiration!](https://github.com/jordanrhall/educational-fun/issues/1)
 * [Number Guessing Game](https://github.com/jordanrhall/educational-fun/blob/main/coding-challenges/Number_Guesser.py): A fun number guessing game Carter took on as his first Python challenge
