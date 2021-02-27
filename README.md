@@ -6,9 +6,9 @@ We will mainly use Python (and some markdown), but hope to add more languages ov
 ## Installation Instructions
 * If you do not have a computational environment set up to run Python, download [Anaconda](https://www.anaconda.com/products/individual)
     * Specific install instructions for Windows, Mac, Linux? More to say here?
-* To clone this repo locally, using `git clone git@github.com:jordanrhall/educational-fun.git` in a destination of your choosing (executed in your terminal)
+* To clone this repo locally, type in `git clone git@github.com:jordanrhall/educational-fun.git` into Git Bash in a destination of your choosing (executed in your terminal)
 
-## Contents:
+## Contents
 
 ### Coding Challenges
 * [Fizzbuzz](https://github.com/jordanrhall/educational-fun/blob/main/coding-challenges/fizzbuzz.py): A standard challenge to efficiently print integers 1 through 100, with a few caveats. Jordan took this on to brush up on Python skills and get this repo going. [Thanks, Michael, for your help and inspiration!](https://github.com/jordanrhall/educational-fun/issues/1)
