@@ -6,7 +6,10 @@ We will mainly use Python (and some markdown), but hope to add more languages ov
 ## Installation Instructions
 * If you do not have a computational environment set up to run Python, download [Anaconda](https://www.anaconda.com/products/individual)
     * Specific install instructions for Windows, Mac, Linux? More to say here?
-* To clone this repo locally, type in `git clone git@github.com:jordanrhall/educational-fun.git` into Git Bash in a destination of your choosing (executed in your terminal)
+
+* To clone this repo locally, execute `git clone git@github.com:jordanrhall/educational-fun.git` in terminal (or Git Bash on Windows, if you prefer) in a destination of your choosing
+* Maybe a bullet on how to run the notebook and/or scripts?
+
 
 ## Contents
 
